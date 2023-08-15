@@ -1768,38 +1768,34 @@ textarea.form-input::-webkit-resizer {
     grid-template-columns: 1fr 1fr;
   }
 
-  /**
-   * CONTACT
-   */
+  /* CONTACT
+  */
 
-<<<<<<< Updated upstream
   .input-wrapper {
     grid-template-columns: 1fr 1fr;
   }
-=======
-<<<<<<< HEAD
-   .video-container {
+  
+  .video-container {
     max-width: 100%;
     margin: 0 auto;
     text-align: center;
-}
-  .input-wrapper { grid-template-columns: 1fr 1fr; }
-=======
+  }
+  
   .input-wrapper {
     grid-template-columns: 1fr 1fr;
   }
->>>>>>> main
->>>>>>> Stashed changes
-
+  
   .form-btn {
     width: max-content;
-    margin-left: auto;
   }
-}
-
-/**
- * responsive larger than 1024px screen
- */
+  
+  /**
+   * responsive larger than 1024px screen
+   */
+  /* Aquí deberían ir los estilos para pantallas más grandes */
+  
+  /* Resto de tus estilos aquí */
+  
 
 @media (min-width: 1024px) {
   /**
@@ -2041,4 +2037,5 @@ textarea.form-input::-webkit-resizer {
   .timeline-text {
     max-width: 700px;
   }
+}
 }
