@@ -1772,9 +1772,24 @@ textarea.form-input::-webkit-resizer {
    * CONTACT
    */
 
+<<<<<<< Updated upstream
   .input-wrapper {
     grid-template-columns: 1fr 1fr;
   }
+=======
+<<<<<<< HEAD
+   .video-container {
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+  .input-wrapper { grid-template-columns: 1fr 1fr; }
+=======
+  .input-wrapper {
+    grid-template-columns: 1fr 1fr;
+  }
+>>>>>>> main
+>>>>>>> Stashed changes
 
   .form-btn {
     width: max-content;
